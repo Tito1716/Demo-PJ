@@ -17,7 +17,7 @@ require_once QUFORM_ROOT . '/common.php';
 /**
  * Success message, displayed when the form is successfully submitted
  */
-$config['successMessage'] = 'Your message has been sent, thank you.';
+$config['successMessage'] = 'Se envio el correo sastifactoramente';
 
 /**
  * Whether or not to send the notification email. You may wish to disable this if you are
@@ -39,7 +39,7 @@ $config['email'] = true;
  *     'recipient2@example.com'
  * );
  */
-$config['recipients'] = 'test@gtest.com';
+$config['recipients'] = 'titotono00@gmail.com';
 
 /**
  * Set the "From" address of the emails. You should set this to the contact
@@ -59,7 +59,7 @@ $config['recipients'] = 'test@gtest.com';
  *
  * $config['from'] = '%email%';
  */
-$config['from'] = '';
+$config['from'] = '%email%';
 
 /**
  * The subject of the notification email message. %first_name% will be replaced
