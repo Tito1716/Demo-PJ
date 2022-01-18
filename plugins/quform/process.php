@@ -39,7 +39,7 @@ $config['email'] = true;
  *     'recipient2@example.com'
  * );
  */
-$config['recipients'] = 'titotono00@gmail.com';
+$config['recipients'] = 'info@lineadigitalsv.com';
 
 /**
  * Set the "From" address of the emails. You should set this to the contact
@@ -65,7 +65,7 @@ $config['from'] = '%email%';
  * The subject of the notification email message. %first_name% will be replaced
  * with the form submitted value in the first_name field.
  */
-$config['subject'] = 'Message from %name%';
+$config['subject'] = 'Mensaje de %name%';
 
 /**
  * Set the "Reply-To" email address of the notification email to
