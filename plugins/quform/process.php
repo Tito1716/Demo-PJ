@@ -39,7 +39,7 @@ $config['email'] = true;
  *     'recipient2@example.com'
  * );
  */
-$config['recipients'] = 'info@lineadigitalsv.com';
+$config['recipients'] = 'titotono00@gmail.com';
 
 /**
  * Set the "From" address of the emails. You should set this to the contact
@@ -101,7 +101,7 @@ $config['autoreplyRecipient'] = '%email%';
 /**
  * The subject of the autoreply email
  */
-$config['autoreplySubject'] = 'Thanks for your message, %name%';
+$config['autoreplySubject'] = 'Gracias por escribirnos, %name%';
 
 /**
  * Set the "From" address of the autoreply email.
